@@ -2,6 +2,7 @@
 
 Welcome to **The Cognifyz Technologies Internship Challenge Repository**, where I document my journey as a **Data Science Intern** at Cognifyz Technologies. This repository showcases my hands-on experience in **data analysis, machine learning, and geospatial analytics**, demonstrating my ability to turn raw data into actionable insights.  
 
+Link to full article https://gofandi7.wixsite.com/geoffrey-ogato/post/unlocking-insights-with-data-science-my-internship-journey-at-cognifyz-technologies
 ---
 
 ### **🔍 Key Highlights:**  
